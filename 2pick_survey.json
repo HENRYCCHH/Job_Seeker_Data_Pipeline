@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "title": "About Job Preferences",
+    "content": "What type of roles or job titles are you specifically looking for?",
+    "field_name": "job_title",
+    "options": [
+      {
+        "content": "I love my last job title, I'm looking for similar roles",
+        "fixed": true,
+        "value": "same_job_title"
+      },
+      { 
+        "content": "I'm looking for a new challenge, I'm open to new roles",
+        "fixed": true,
+        "value": "new_job_title"
+      }
+      //{
+        //"content": "I'm looking for a promotion, I'm looking for higher roles",
+        //"fixed": true,
+        //"value": "higher_job_title"
+      //}
+    ]
+  },
+  {
+    "id": 2,
+    "title": "About Job Preferences",
+    "content": "Do you have a preferred industry or sector you would like to work in?",
+    "field_name": "job_industry",
+    "options": [
+      {
+        "content": "The last industry I worked in",
+        "fixed": true,
+        "value": "last_industry"
+      },
+      {
+        "content": "I don't mind, I'm open to new industries",
+        "fixed": true,
+        "value": "other_industry"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "About Job Preferences",
+    "content": "What company size do you prefer working in: small startups, medium-sized companies, or large corporations?",
+    "field_name": "company_size",
+    "options": [
+      {
+        "content": "Small startups, it feels like a family",
+        "fixed": true,
+        "value": "small_size"
+      },
+      {
+        "content": "Medium-sized companies, it's a good balance",
+        "fixed": true,
+        "value": "medium_size"
+      },
+      {
+        "content": "Large corporations, it's more stable",
+        "fixed": true,
+        "value": "large_size"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "About Job Preferences",
+    "content": "Which job sector are you particularly interested in?",
+    "field_name": "job_sector",
+    "options": [
+      {
+        "content": "Government or public sector, I want to serve the community",
+        "fixed": true,
+        "value": "government_or_public_sector"
+      },
+      {
+        "content": "Non-profit organization,  I want to make a difference",
+        "fixed": true,
+        "value": "nonprofit_organizations"
+      },
+      {
+        "content": "Private sector, I want to grow my career",
+        "fixed": true,
+        "value": "private_sector"
+      }
+      //{
+        //"content": "I don't mind, I'm open to new opportunities",
+        //"fixed": true,
+        //"value": "open_opportunities"
+      //}
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "About Work Environment",
+    "content": "How important is company culture to you, and what aspects of culture do you value the most?",
+    "field_name": "company_culture",
+    "options": [
+      {
+        "content": "Collaboration and Teamwork: Emphasizing the importance of working in a cooperative and communicative environment where people work well together.",
+        "fixed": true,
+        "value": "teamwork"
+      },
+      {
+        "content": "Innovation and Growth: Valuing a culture that encourages creativity, continuous learning, and professional development.",
+        "fixed": true,
+        "value": "growth"
+      },
+      {
+        "content": "Inclusivity and Respect: Preferring a workplace where diversity is celebrated, and everyone is treated with respect and dignity.",
+        "fixed": true,
+        "value": "respect"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "About Work Environment",
+    "content": "Do you prefer remote work, on-site work, or a hybrid work model?",
+    "field_name": "work_model",
+    "options": [
+      {
+        "content": "Remote work",
+        "fixed": true,
+        "value": "remote"
+      },
+      {
+        "content": "On-site work",
+        "fixed": true,
+        "value": "on_site"
+      },
+      {
+        "content": "Hybrid work model",
+        "fixed": true,
+        "value": "hybrid"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "About Salary, Compensation and Benefits",
+    "content": "What are your salary expectations, and are there specific benefits or perks that are particularly important to you?",
+    "field_name": "salary_expectations",
+    "options": [
+      {
+        "content": "I look for competitive salary",
+        "fixed": true,
+        "value": "competitive_salary"
+      },
+      {
+        "content": "I look for good benefits",
+        "fixed": true,
+        "value": "benefits"
+      },
+      {
+        "content": "I look for stable income",
+        "fixed": true,
+        "value": "stable_income"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "About Salary, Compensation and Benefits",
+    "content": "Are you open to contract or temporary roles, or are you solely looking for full-time permanent positions?",
+    "field_name": "role_type",
+    "options": [
+      {
+        "content": "Full-time permanent positions",
+        "fixed": true,
+        "value": "fulltime"
+      },
+      {
+        "content": "I don't mind contract or temporary roles",
+        "fixed": true,
+        "value": "contract"
+      },
+      {
+        "content": "I prefer part-time or casual roles",
+        "fixed": true,
+        "value": "parttime"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Company Preference",
+    "content": "Are you more interested in local or foreign-based companies?",
+    "field_name": "company_scale",
+    "options": [
+      {
+        "content": "Foreign-based companies",
+        "fixed": true,
+        "value": "foreign_based"
+      },
+      {
+        "content": "Local companies, I want to support local businesses",
+        "fixed": true,
+        "value": "local"
+      }
+      {
+        "content": "I don't mind, I'm open to new opportunities",
+        "fixed": true,
+        "value": "open_opportunities"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "About Location and Commute",
+    "content": "How much commute time are you willing to handle daily?",
+    "field_name": "location_distance",
+    "options": [
+      {
+        "content": "keep it under 30 minutes",
+        "fixed": true,
+        "value": "30_minutes"
+      },
+      {
+        "content": "Up to 1 hour is manageable",
+        "fixed": true,
+        "value": "1_hour"
+      },
+      {
+        "content": "I don’t mind longer commute if the job is right",
+        "fixed": true,
+        "value": "no_preference"
+      }
+
+    ]
+  }
+]

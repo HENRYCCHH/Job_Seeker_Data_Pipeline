@@ -1,0 +1,95 @@
+{
+    "userId": "UserAccount:fxcahku24n6zb07nuo8n",
+    "choices": [
+    {
+      "pair_id": 1,
+      "job_A_id": "76192531",
+      "job_B_id": "76222257",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 2,
+      "job_A_id": "76192531",
+      "job_B_id": "76249302",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 3,
+      "job_A_id": "72172733",
+      "job_B_id": "76222257",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 4,
+      "job_A_id": "74913754",
+      "job_B_id": "76249302",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 5,
+      "job_A_id": "72172945",
+      "job_B_id": "74913754",
+      "user_choice": 0
+    },
+    {
+      "pair_id": 6,
+      "job_A_id": "57192643",
+      "job_B_id": "75721884",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 7,
+      "job_A_id": "69699264",
+      "job_B_id": "76405090",
+      "user_choice": 0
+    },
+    {
+      "pair_id": 8,
+      "job_A_id": "74988257",
+      "job_B_id": "76017888",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 9,
+      "job_A_id": "76017888",
+      "job_B_id": "76405090",
+      "user_choice": 0
+    },
+    {
+      "pair_id": 10,
+      "job_A_id": "73066320",
+      "job_B_id": "76276268",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 11,
+      "job_A_id": "75750371",
+      "job_B_id": "75830515",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 12,
+      "job_A_id": "74988257",
+      "job_B_id": "75830515",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 13,
+      "job_A_id": "73066320",
+      "job_B_id": "75380156",
+      "user_choice": 0
+    },
+    {
+      "pair_id": 14,
+      "job_A_id": "69699264",
+      "job_B_id": "76017801",
+      "user_choice": 1
+    },
+    {
+      "pair_id": 15,
+      "job_A_id": "75380156",
+      "job_B_id": "75750371",
+      "user_choice": 1
+    }
+  ]
+}

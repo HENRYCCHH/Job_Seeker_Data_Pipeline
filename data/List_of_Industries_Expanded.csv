@@ -1,0 +1,258 @@
+Level 1 (L1) label,Level 2 (L2) label,Level 3 (L3) label
+Accommodation and Food Services,Food and Beverage Services,"Bars, Taverns, and Nightclubs"
+,,Caterers
+,,Mobile Food Services
+,,Restaurants
+Accommodation and Food Services,Hospitality,"Bed-and-Breakfasts, Hostels, Homestays"
+,,Hotels and Motels
+Administrative and Support Services,Collection Agencies,
+,Events Services,
+,Facilities Services,
+,Fundraising,
+,Office Administration,
+,Security and Investigations,
+,Staffing and Recruiting,
+,Telephone Call Centers,
+,Translation and Localization,
+,Travel Arrangements,
+,Writing and Editing,
+Construction,Building Construction,
+,Civil Engineering,
+,Specialty Trade Contractors,
+Consumer Services,Civic and Social Organizations,
+,Household Services,
+,Non-profit Organizations,
+,Personal and Laundry Services,
+,Philanthropic Fundraising Services,
+,Religious Institutions,
+,Repair and Maintenance,
+Education,E-Learning Providers,
+,Higher Education,
+,Primary and Secondary Education,
+,Professional Training and Coaching,
+,Technical and Vocational Training,
+Entertainment Providers,Artists and Writers,
+Entertainment Providers,"Museums, Historical Sites, and Zoos",Historical Sites
+,,Museums
+,,Zoos and Botanical Gardens
+Entertainment Providers,Musicians,
+Entertainment Providers,Performing Arts and Spectator Sports,Circuses and Magic Shows
+,,Dance Companies
+,,Performing Arts
+,,Theater Companies
+Entertainment Providers,Recreational Facilities,Amusement Parks and Arcades
+,,Gambling Facilities and Casinos
+,,Golf Courses and Country Clubs
+,,Skiing Facilities
+,,Wellness and Fitness Services
+Entertainment Providers,Spectator Sports,Racetracks
+,,Sports Teams and Clubs
+"Farming, Ranching, Forestry",Farming,
+,Ranching and Fisheries,
+,Forestry and Logging,
+Financial Services,Capital Markets,Investment Advice
+,,Investment Banking
+,,Investment Management
+,,Securities and Commodity Exchanges
+,,Venture Capital and Private Equity Principals
+Financial Services,Credit Intermediation,Banking
+,,International Trade and Development
+,,Loan Brokers
+,,Savings Institutions
+Financial Services,Funds and Trusts,Insurance and Employee Benefit Funds
+,,Pension Funds
+,,Trusts and Estates
+Financial Services,Insurance,"Claims Adjusting, Actuarial Services"
+,,Insurance Agencies and Brokerages
+,,Insurance Carriers
+Government Administration,Administration of Justice,Correctional Institutions
+,,Courts of Law
+,,Fire Protection
+,,Law Enforcement
+,,Public Safety
+Government Administration,Economic Programs,Transportation Programs
+,,Utilities Administration
+Government Administration,Environmental Quality Programs,"Air, Water, and Waste Program Management"
+,,Conservation Programs
+Government Administration,Health and Human Services,Education Administration Programs
+,,Public Assistance Programs
+,,Public Health
+Government Administration,Housing and Community Development,Community Development and Urban Planning
+,,Housing Programs
+Government Administration,Military and International Affairs,Armed Forces
+,,International Affairs
+Government Administration,Public Policy,
+Government Administration,Public Policy Offices,Executive Offices
+,,Legislative Offices
+Government Administration,Space Research and Technology,
+Holding Companies,,
+Hospitals and Health Care,Community Services,
+,Hospitals,
+,Individual and Family Services,
+,Medical Practices,
+,Nursing Homes and Residential Care Facilities,
+Manufacturing,Apparel Manufacturing,Fashion Accessories Manufacturing
+Manufacturing,"Appliances, Electrical, and Electronics Manufacturing",Electric Lighting Equipment Manufacturing
+,,Electrical Equipment Manufacturing
+,,Household Appliance Manufacturing
+Manufacturing,Chemical Manufacturing,Agricultural Chemical Manufacturing
+,,Artificial Rubber and Synthetic Fiber Manufacturing
+,,Chemical Raw Materials Manufacturing
+,,"Paint, Coating, and Adhesive Manufacturing"
+,,Personal Care Product Manufacturing
+,,Pharmaceutical Manufacturing
+,,Soap and Cleaning Product Manufacturing
+Manufacturing,Computers and Electronics Manufacturing,Audio and Video Equipment Manufacturing
+,,Communications Equipment Manufacturing
+,,Computer Hardware Manufacturing
+,,Magnetic and Optical Media Manufacturing
+,,Measuring and Control Instrument Manufacturing
+,,Semiconductor Manufacturing
+Manufacturing,Fabricated Metal Products,Architectural and Structural Metal Manufacturing
+,,"Boilers, Tanks, and Shipping Container Manufacturing"
+,,Construction Hardware Manufacturing
+,,Cutlery and Handtool Manufacturing
+,,Metal Treatments
+,,"Metal Valve, Ball, and Roller Manufacturing"
+,,Spring and Wire Product Manufacturing
+,,Turned Products and Fastener Manufacturing
+Manufacturing,Food and Beverage Manufacturing,Animal Feed Manufacturing
+,,Baked Goods Manufacturing
+,,Beverage Manufacturing
+,,Dairy Product Manufacturing
+,,Fruit and Vegetable Preserves Manufacturing
+,,Meat Products Manufacturing
+,,Seafood Product Manufacturing
+,,Sugar and Confectionery Product Manufacturing
+Manufacturing,Furniture and Home Furnishings Manufacturing,Household and Institutional Furniture Manufacturing
+,,Mattress and Blinds Manufacturing
+,,Office Furniture and Fixtures Manufacturing
+Manufacturing,"Glass, Ceramics and Concrete Manufacturing",Abrasives and Nonmetallic Minerals Manufacturing
+,,Clay and Refractory Products Manufacturing
+,,Glass Product Manufacturing
+,,Lime and Gypsum Products Manufacturing
+Manufacturing,Leather Product Manufacturing,Footwear Manufacturing
+,,Women's Handbag Manufacturing
+Manufacturing,Machinery Manufacturing,"Agriculture, Construction, Mining Machinery Manufacturing"
+,,Automation Machinery Manufacturing
+,,Commercial and Service Industry Machinery Manufacturing
+,,Engines and Power Transmission Equipment Manufacturing
+,,HVAC and Refrigeration Equipment Manufacturing
+,,Industrial Machinery Manufacturing
+,,Metalworking Machinery Manufacturing
+Manufacturing,Medical Equipment Manufacturing,
+Manufacturing,Oil and Coal Product Manufacturing,
+Manufacturing,Paper and Forest Product Manufacturing,
+Manufacturing,Plastics and Rubber Product Manufacturing,Packaging and Containers Manufacturing
+,,Plastics Manufacturing
+,,Rubber Products Manufacturing
+Manufacturing,Primary Metal Manufacturing,
+Manufacturing,Printing Services,
+Manufacturing,Sporting Goods Manufacturing,
+Manufacturing,Textile Manufacturing,
+Manufacturing,Tobacco Manufacturing,
+Manufacturing,Transportation Equipment Manufacturing,Aviation and Aerospace Component Manufacturing
+,,Defense and Space Manufacturing
+,,Motor Vehicle Manufacturing
+,,Motor Vehicle Parts Manufacturing
+,,Railroad Equipment Manufacturing
+,,Shipbuilding
+Manufacturing,Wood Product Manufacturing,
+"Oil, Gas, and Mining",Mining,
+,Oil and Gas,
+Professional Services,Accounting,
+Professional Services,Advertising Services,Government Relations Services
+,,Market Research
+,,Photography
+,,Public Relations and Communications Services
+Professional Services,Architecture and Planning,
+Professional Services,Business Consulting and Services,Environmental Services
+,,Human Resources Services
+,,Marketing Services
+,,Operations Consulting
+,,Outsourcing and Offshoring Consulting
+,,Strategic Management Services
+Professional Services,Design Services,Graphic Design
+,,Interior Design
+Professional Services,Engineering Services,
+Professional Services,IT Services and IT Consulting,Computer and Network Security
+,,IT System Custom Software Development
+,,IT System Data Services
+,,IT System Design Services
+,,IT System Installation and Disposal
+,,IT System Operations and Maintenance
+,,IT System Testing and Evaluation
+,,IT System Training and Support
+Professional Services,Legal Services,Alternative Dispute Resolution
+,,Law Practice
+Professional Services,Research Services,Biotechnology Research
+,,Nanotechnology Research
+,,Think Tanks
+Professional Services,Services for Renewable Energy,
+Professional Services,Veterinary Services,
+Real Estate and Equipment Rental Services,Equipment Rental Services,
+,Real Estate,
+Retail,Food and Beverage Retail,
+,Online and Mail Order Retail,
+,Retail Apparel and Fashion,
+,"Retail Appliances, Electrical, and Electronic Equipment",
+,Retail Art Dealers,
+,Retail Art Supplies,
+,Retail Books and Printed News,
+,Retail Building Materials and Garden Equipment,
+,Retail Florists,
+,Retail Furniture and Home Furnishings,
+,Retail Gasoline,
+,Retail Health and Personal Care Products,
+,Retail Luxury Goods and Jewelry,
+,Retail Motor Vehicles,
+,Retail Musical Instruments,
+,Retail Office Equipment,
+,Retail Office Supplies and Gifts,
+,Retail Recyclable Materials & Used Merchandise,
+"Technology, Information and Media",Book and Periodical Publishing,
+,Broadcast Media Production and Distribution,
+,Data Infrastructure and Analytics,
+,Information Services,
+,Internet Marketplace Platforms,
+,"Movies, Videos, and Sound",
+,Social Networking Platforms,
+,Telecommunications,
+"Technology, Information and Media",Software Development,Computer Games
+"Transportation, Logistics, Supply Chain and Storage",Airlines and Aviation,
+,,
+,Freight and Package Transportation,
+,Ground Passenger Transportation,
+,Maritime Transportation,
+,Pipeline Transportation,
+,Postal Services,
+,Rail Transportation,
+,Truck Transportation,
+,Warehousing,
+,Warehousing and Storage,
+Utilities,Electric Power Generation,
+,"Electric Power Transmission, Control, and Distribution",
+,Electric Power Generation,
+,Natural Gas Distribution,
+,"Water, Waste, Steam, and Air Conditioning Services",
+Wholesale,Wholesale Alcoholic Beverages,
+,Wholesale Apparel and Sewing Supplies,
+,"Wholesale Appliances, Electrical, and Electronics",
+,Wholesale Building Materials,
+,Wholesale Chemical and Allied Products,
+,Wholesale Computer Equipment,
+,Wholesale Drugs and Sundries,
+,Wholesale Food and Beverage,
+,Wholesale Footwear,
+,Wholesale Furniture and Home Furnishings,
+,"Wholesale Hardware, Plumbing, Heating Equipment",
+,Wholesale Import and Export,
+,Wholesale Luxury Goods and Jewelry,
+,Wholesale Machinery,
+,Wholesale Metals and Minerals,
+,Wholesale Motor Vehicles and Parts,
+,Wholesale Paper Products,
+,Wholesale Petroleum and Petroleum Products,
+,Wholesale Photography Equipment and Supplies,
+,Wholesale Raw Farm Products,
+,Wholesale Recyclable Materials,

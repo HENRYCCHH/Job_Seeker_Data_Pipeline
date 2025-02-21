@@ -1,0 +1,55 @@
+{
+  "userId": "UserAccount:fxcahku24n6zb07nuo8n",
+  "keywords": [
+    {
+      "keyword": "job_title",
+      "value": "same_job_title",
+      "type": "Survey"
+    },
+    {
+      "keyword": "job_industry",
+      "value": "last_industry",
+      "type": "Survey"
+    },
+    {
+      "keyword": "company_size",
+      "value": "medium_size",
+      "type": "Survey"
+    },
+    {
+      "keyword": "job_sector",
+      "value": "private_sector",
+      "type": "Survey"
+    },
+    {
+      "keyword": "company_culture",
+      "value": "growth",
+      "type": "Survey"
+    },
+    {
+      "keyword": "work_model",
+      "value": "on_site",
+      "type": "Survey"
+    },
+    {
+      "keyword": "salary_expectations",
+      "value": "benefits",
+      "type": "Survey"
+    },
+    {
+      "keyword": "role_type",
+      "value": "fulltime",
+      "type": "Survey"
+    },
+    {
+      "keyword": "company_scale",
+      "value": "foreign_based",
+      "type": "Survey"
+    },
+    {
+      "keyword": "location_distance",
+      "value": "30_minutes",
+      "type": "Survey"
+    }
+  ]
+}
