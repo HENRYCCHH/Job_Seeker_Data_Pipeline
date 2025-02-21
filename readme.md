@@ -27,3 +27,6 @@ The Job Seeker Data Pipeline is the backbone of our AI-powered job search engine
 4. **Output:** 
    - The resulting processed dataset is used downstream for machine learning model training and ranking in the microservice.
 
+##  Notebook:
+All code and analyses are documented in the Jupyter Notebook:
+job_seeker_model_v10.ipynb
