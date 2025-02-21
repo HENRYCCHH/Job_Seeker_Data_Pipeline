@@ -29,4 +29,4 @@ The Job Seeker Data Pipeline is the backbone of our AI-powered job search engine
 
 ##  Notebook
 All code and analyses are documented in the Jupyter Notebook:
-job_seeker_model_v10.ipynb
+`job_seeker_model_v10.ipynb`
