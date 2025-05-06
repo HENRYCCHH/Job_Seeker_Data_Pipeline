@@ -27,6 +27,14 @@ The Job Seeker Data Pipeline is the backbone of our AI-powered job search engine
 4. **Output:** 
    - The resulting processed dataset is used downstream for machine learning model training and ranking in the microservice.
 
+## Job Seeker Video Demonstration
+
+<a href="https://img.youtube.com/vi/AqKWgewsZsU" target="_blank">
+  <img src="https://img.youtube.com/vi/AqKWgewsZsU/0.jpg" width="650"/>
+</a>
+
 ##  Notebook
 The majority of code and analyses are documented in the Jupyter Notebook:
-`job_seeker_model_v10.ipynb`
+<a href="https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline/blob/main/job_seeker_model_v10.ipynb" target="_blank">
+  <code>job_seeker_model_v10.ipynb</code>
+</a>
