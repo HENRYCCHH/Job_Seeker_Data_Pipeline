@@ -29,7 +29,7 @@ The Job Seeker Data Pipeline is the backbone of our AI-powered job search engine
 
 ## Job Seeker Video Demonstration
 
-<a href="https://img.youtube.com/vi/AqKWgewsZsU" target="_blank">
+<a href="https://youtu.be/AqKWgewsZsU" target="_blank">
   <img src="https://img.youtube.com/vi/AqKWgewsZsU/0.jpg" width="650"/>
 </a>
 
