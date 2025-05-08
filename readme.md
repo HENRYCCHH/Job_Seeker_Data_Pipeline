@@ -13,6 +13,9 @@ The Job Seeker Data Pipeline is the backbone of our AI-powered job search engine
 - **Data Preprocessing:** Cleans and transforms disparate data formats to create a unified dataset for ranking.
 - **Scalability:** Designed to handle and process large volumes of job and user data efficiently.
 
+## Architecture Overview
+<img src="image/System_Workflow_for_Personalized_Job_Search_Based_on_User_Preferences.png" width="700" alt="Architecture Overview Diagram"/>
+
 ## Methodology
 1. **Data Ingestion:** 
    - Collect job data using Seek APIs.
