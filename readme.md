@@ -41,3 +41,5 @@ The majority of code and analyses are documented in the Jupyter Notebook:
 <a href="https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline/blob/main/job_seeker_model_v10.ipynb" target="_blank">
   <code>job_seeker_model_v10.ipynb</code>
 </a>
+- [Job Seeker Microservice](https://github.com/HENRYCCHH/Job_Seeker_Microservice_Python) – Implements the core logic as a Python microservice.
+- A full web application developed in collaboration with [StvChm9703](https://github.com/Stvchm9703/job-seek)
